@@ -1,0 +1,29 @@
+Terms of Service (TOS) for TonkBot
+1. Acceptance of Terms
+
+By using TonkBot or any of its services, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use TonkBot.
+
+2. TonkBot Services
+
+TonkBot is a Discord bot that provides economy-related features. The specific features and services offered may change from time to time.
+
+3. User Conduct
+
+You agree not to:
+
+Use TonkBot for any illegal or harmful purpose.
+Use TonkBot in a way that violates Discord's Terms of Service or Community Guidelines.
+Attempt to gain unauthorized access to TonkBot or its systems.
+Use TonkBot to harass, threaten, or abuse others.
+Distribute or promote spam, malware, or other harmful content.
+4. Intellectual Property
+
+TonkBot and its related materials are protected by copyright and other intellectual property laws. You may not reproduce, modify, distribute, or otherwise use TonkBot or its materials without our prior written permission.   
+
+5. Limitation of Liability
+
+To the maximum extent permitted by law, TonkBot shall not be liable for any indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with your use of TonkBot or its services.   
+
+6. Termination
+
+We may terminate your access to TonkBot or its services at any time, for any reason, without notice.
